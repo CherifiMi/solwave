@@ -54,3 +54,4 @@ Head over to the [documentation](https://docs.saganize.com/solwave-sdk/kotlin_qu
 
 If you find a bug in the app, kindly open an issue [here](https://github.com/Saganize/Solwave-kt/issues/new) to report it by
 including a proper description of the bug and the expected result. We would also appreciate feature requests. If you feel like a certain feature is missing, feel free to create an issue to discuss with the maintainers.
+"# solwave" 
